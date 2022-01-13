@@ -1,7 +1,14 @@
 body {
-	background: grey;
 }
 
 .top {
-	background: white;
+	
+}
+
+.logo {
+	size: 50%;
+}
+
+picture {
+	size: 50%;
 }
