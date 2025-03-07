@@ -9,10 +9,10 @@ body {
 }
 
 .bot-pic {
-	max-width: 100px;
+	
 	
 }
 
 picture {
-	max-width: 200px;
+	display: none;
 }
