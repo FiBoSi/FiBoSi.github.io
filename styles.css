@@ -1,5 +1,7 @@
 body {
-	background: url("Hörwert-Logo.jpeg") no-repeat fixed;
+	background-image: url("Hörwert-Logo.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 .top {
@@ -7,9 +9,10 @@ body {
 }
 
 .logo {
+	max-width: 100px;
 	
 }
 
 picture {
-	
+	max-width: 200px;
 }
