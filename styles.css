@@ -15,6 +15,7 @@ body {
 h1{
 	width:50%;
 	float: left;
+	opacity: 1;
 }
 
 .bot-pic {
@@ -24,5 +25,5 @@ h1{
 
 img {
 	height: 250px;
-	
+	opacity: 1;
 }
