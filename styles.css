@@ -2,6 +2,8 @@ body {
 	background-image: url("Bot-white.jpeg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+
+	margin-left: 16.5%;
 }
 
 .top {
