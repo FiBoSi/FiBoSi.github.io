@@ -12,8 +12,9 @@ body {
 	margin-right: 16.5%;
 }
 
-.top {
-	
+.top h1{
+	width:50%;
+	float: right;
 }
 
 .bot-pic {
