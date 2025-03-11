@@ -1,17 +1,21 @@
 body {
-	background-color: light-grey;
+	background-color: aliceblue;
 
 	margin-left: 16.5%;
 	margin-right: 16.5%;
 }
 
 .content{
+	margin-left: 16.5%;
+	margin-right: 16.5%;
+}
+
+.mid{
 	background-image: url("Bot-white.jpeg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	
-	margin-left: 16.5%;
-	margin-right: 16.5%;
+	background-color: white;
+	background-position-x: -75%;
 }
 
 h1{
