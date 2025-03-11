@@ -28,6 +28,7 @@ h1{
 
 .h2p {
 	width: 65%;
+	float: right;
 }
 
 .h2p > p {
