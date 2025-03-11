@@ -18,12 +18,13 @@ body {
 	background-image: url("Bot-white.jpeg");
 	background-repeat: no-repeat;
 	background-color: white;
-	background-position-x: -225%;
+	background-position-x: 320%;
 }
 
 h1{
 	width:50%;
 	float: left;
+	font-size: 100px;
 }
 
 .h2p, .content-button{
