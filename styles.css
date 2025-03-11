@@ -10,12 +10,15 @@ body {
 	margin-right: 16.5%;
 }
 
+.top{
+	
+}
+
 .mid{
 	background-image: url("Bot-white.jpeg");
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	background-color: white;
-	background-position-x: -75%;
+	background-position-x: -175%;
 }
 
 h1{
