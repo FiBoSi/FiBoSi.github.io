@@ -22,18 +22,19 @@ body {
 }
 
 h1{
-	width:50%;
 	float: left;
-	font-size: 100px;
+	font-size: 100px !important;
 }
 
 .h2p, .content-button{
 	max-width: 50%;
+	clear: right;
+	float: right;
 }
 
 .bot-pic {
 	float: right;
-	
+	padding-right: 150px;
 }
 
 img {
