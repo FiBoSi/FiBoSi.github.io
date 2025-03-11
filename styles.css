@@ -31,7 +31,7 @@ h1{
 	float: right;
 }
 
-.h2p > p {
+div.h2p > p {
 	padding-left: 15%;
 }
 
