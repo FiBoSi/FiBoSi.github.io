@@ -26,6 +26,10 @@ h1{
 	float: left;
 }
 
+.h2p, .content-button{
+	max-width: 50%;
+}
+
 .bot-pic {
 	float: right;
 	
