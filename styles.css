@@ -1,13 +1,15 @@
 body {
-	background-image: url("Bot-white.jpeg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-color: light-grey;
 
 	margin-left: 16.5%;
 	margin-right: 16.5%;
 }
 
 .content{
+	background-image: url("Bot-white.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
 	margin-left: 16.5%;
 	margin-right: 16.5%;
 }
@@ -15,7 +17,6 @@ body {
 h1{
 	width:50%;
 	float: left;
-	opacity: 1;
 }
 
 .bot-pic {
@@ -25,5 +26,4 @@ h1{
 
 img {
 	height: 250px;
-	opacity: 1;
 }
