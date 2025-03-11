@@ -27,7 +27,7 @@ h1{
 }
 
 .h2p, .content-button{
-	max-width: 50%;
+	width: 50%;
 	clear: right;
 	float: right;
 }
