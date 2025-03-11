@@ -26,7 +26,15 @@ h1{
 	font-size: 130px !important;
 }
 
-.h2p, .content-button{
+.h2p {
+	width: 65%;
+}
+
+.h2p > p {
+	padding-left: 15%;
+}
+
+.content-button{
 	width: 50%;
 	clear: right;
 	float: right;
